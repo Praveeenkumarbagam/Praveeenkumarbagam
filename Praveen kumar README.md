@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Praveeenkumarbagam
-- 👀 I’m interested in ... electrical and electronics engineering jobs and software jobs related to java.
-- 🌱 I’m currently learning ...java.
+- 👀 I’m interested in ...devops.
+- 🌱 I’m currently learning ...devops.
 - 📫 How to reach me ...6304937399  and my mail is " bagampraveenkumar@gmail.com ".
 
 <!---
